@@ -39,11 +39,11 @@ Artigos com múltiplos critérios negativos são descartados; procurar alternati
 
 **Formato de entrega para cada artigo:**
 ```
-📄 **Título completo**
-👥 **Autores:** Nome dos principais autores
-📅 **Ano:** XXXX
-🔗 **Link:** [URL direta do PDF gratuito]
-📝 **Resumo:** Explicação do que o artigo trata e por que é relevante para o tema pedido
+**Título:** Título completo do artigo
+**Autores:** Nome dos principais autores
+**Ano:** XXXX
+**Link:** URL direta do PDF gratuito
+**Resumo:** Explicação do que o artigo trata e por que é relevante para o tema pedido
 ```
 
 ## Temas Suportados
