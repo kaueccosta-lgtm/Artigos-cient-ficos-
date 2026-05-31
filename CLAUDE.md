@@ -107,6 +107,33 @@ WebFetch retorna 403 para SciELO, PMC e arXiv neste ambiente de execução. Comp
 
 ---
 
+## Armazenamento — artigos.json
+
+Após cada entrega, salvar os 3 artigos no arquivo `artigos.json` do repositório, no formato:
+
+```json
+{
+  "tema": "Nome do tema",
+  "subtema": "Subtema específico pedido",
+  "data": "YYYY-MM-DD",
+  "artigos": [
+    {
+      "titulo": "Título completo",
+      "autores": "Sobrenome, Inicial.; ...",
+      "ano": XXXX,
+      "revista": "Nome do periódico",
+      "link": "URL direta",
+      "banco": "SciELO Brasil / PMC / arXiv / ...",
+      "resumo": "Resumo do artigo"
+    }
+  ]
+}
+```
+
+O arquivo acumula todas as pesquisas realizadas dentro do array `historico`.
+
+---
+
 ## Temas Suportados
 
 Qualquer área: teologia, empreendedorismo, negócios, medicina, tecnologia, ciências sociais, educação, direito, psicologia, etc.
