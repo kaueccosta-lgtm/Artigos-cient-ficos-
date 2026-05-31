@@ -68,5 +68,40 @@
         }
       ]
     }
+    ,
+    {
+      "tema": "Empreendedorismo no Reino",
+      "subtema": "Perfil do empreendedor cristão no contexto do Reino de Deus",
+      "data": "2026-05-31",
+      "artigos": [
+        {
+          "titulo": "\"Segurando na mão de Deus\": organizações religiosas e apoio ao empreendedorismo",
+          "autores": "Serafim, M. C.; Martes, A. C. B.; Rodriguez, C. L.",
+          "ano": 2012,
+          "revista": "Revista de Administração de Empresas (RAE), FGV",
+          "link": "https://www.scielo.br/j/rae/a/hFrKjNK5BxpBdDwzLrgqxGK/",
+          "banco": "SciELO Brasil",
+          "resumo": "Investiga como organizações religiosas formam o perfil empreendedor por meio de informação, formação e motivação. A pertença à igreja gera capital social e reforça a motivação religiosa como motor econômico."
+        },
+        {
+          "titulo": "Do espírito do capitalismo ao espírito empreendedor: a consolidação das ideias acerca da prática empreendedora numa abordagem histórico-materialista",
+          "autores": "Pesquisadores da UFRN e UFMG (nomes na página)",
+          "ano": 2022,
+          "revista": "Cadernos EBAPE.BR, FGV",
+          "link": "https://www.scielo.br/j/cebape/a/ScBZSdpKpQNHGP9jnbCTHXf/",
+          "banco": "SciELO Brasil",
+          "resumo": "Traça a raiz teológica protestante do perfil empreendedor moderno, conectando Weber ao empreendedorismo contemporâneo e ao espírito de vocação e missão do Reino."
+        },
+        {
+          "titulo": "\"Prosperidade\" na década de 1990: etnografia do compromisso de trabalho entre Deus e o fiel da Igreja Universal do Reino de Deus",
+          "autores": "Disponíveis na página",
+          "ano": null,
+          "revista": "Dados — Revista de Ciências Sociais (IUPERJ)",
+          "link": "https://www.scielo.br/j/dados/a/FVfyjtRFrBTjqPDZhWWy4Lw/",
+          "banco": "SciELO Brasil",
+          "resumo": "Etnografia sobre como fiéis da Igreja Universal do Reino de Deus constroem identidade empreendedora a partir da teologia da prosperidade, analisando o vínculo entre fé, trabalho e resultado econômico."
+        }
+      ]
+    }
   ]
 }
