@@ -103,5 +103,40 @@
         }
       ]
     }
+    ,
+    {
+      "tema": "Empreendedorismo no Reino",
+      "subtema": "Vocação e chamado do empreendedor cristão",
+      "data": "2026-06-03",
+      "artigos": [
+        {
+          "titulo": "\"Além do que se Vê...\": Análise do Conceito Weberiano de Vocação à Luz da Dinâmica do Empreendedorismo Religioso",
+          "autores": "Disponíveis na página",
+          "ano": null,
+          "revista": "Organizações & Sociedade (O&S) — UFBA",
+          "link": "https://www.scielo.br/j/osoc/a/M3TRwVbMPpbNNXWBQGnxpFz/",
+          "banco": "SciELO Brasil",
+          "resumo": "Analisa como o conceito weberiano de vocação opera na prática do empreendedor religioso. A abertura do negócio é vivida como missão predeterminada por Deus, configurando a vocação como motor do empreendedorismo."
+        },
+        {
+          "titulo": "Empreendedorismo Religioso: Um Estudo sobre Empresas que Exploram o Nicho da Religiosidade",
+          "autores": "Disponíveis na página",
+          "ano": 2015,
+          "revista": "Revista de Administração Contemporânea (RAC), v.19, n.5",
+          "link": "https://www.scielo.br/j/rac/a/dPFHMXqS7LLq57DYmyjXV4t/",
+          "banco": "SciELO Brasil",
+          "resumo": "Investiga como a fé e a motivação de servir a Deus posicionam a abertura do negócio como um chamado predeterminado pela espiritualidade, articulando teoricamente chamado, negócio e identidade religiosa."
+        },
+        {
+          "titulo": "Movido pelo transcendente: a religiosidade como estímulo ao 'espírito empreendedor'",
+          "autores": "Serafim, M. C.; Feuerschütte, S. G.",
+          "ano": 2015,
+          "revista": "Cadernos EBAPE.BR (FGV)",
+          "link": "https://www.scielo.br/j/cebape/a/4MQxsvVpnT6MqLGWXWfYPYg/",
+          "banco": "SciELO Brasil",
+          "resumo": "Investiga como a crença religiosa funciona como âncora vocacional, dando segurança subjetiva ao empreendedor para agir diante da incerteza do mercado."
+        }
+      ]
+    }
   ]
 }
