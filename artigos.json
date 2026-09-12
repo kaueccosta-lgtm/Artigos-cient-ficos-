@@ -138,5 +138,40 @@
         }
       ]
     }
+    ,
+    {
+      "tema": "Divórcio",
+      "subtema": "Visão bíblica do divórcio e reconciliação — perspectiva teológica",
+      "data": "2026-09-12",
+      "artigos": [
+        {
+          "titulo": "O divórcio na perspectiva reformada: uma análise bíblica, teológica e pastoral",
+          "autores": "Blümel, L. A. B.",
+          "ano": 2021,
+          "revista": "Revista Batista Pioneira, v.10, n.2, p.273-289",
+          "link": "https://revista.batistapioneira.edu.br/index.php/rbp/article/download/443/468/1709",
+          "banco": "Revista Batista Pioneira",
+          "resumo": "Analisa o divórcio à luz da teologia bíblica reformada, mostrando como as Escrituras abrem espaço para inclusão, restauração e reconciliação dos divorciados na comunidade de fé."
+        },
+        {
+          "titulo": "Divórcio e Novo Casamento no NT (1): período intertestamentário, Marcos 10.2-12 e Lucas 16.18",
+          "autores": "Dück, A. W.",
+          "ano": null,
+          "revista": "Revista Batista Pioneira",
+          "link": "https://revista.batistapioneira.edu.br/index.php/rbp/article/download/257/302/1038",
+          "banco": "Revista Batista Pioneira",
+          "resumo": "Estudo exegético das passagens do NT sobre divórcio — Marcos 10 e Lucas 16 — contextualizado no período intertestamentário e nas escolas rabínicas da época de Jesus."
+        },
+        {
+          "titulo": "Divórcio e Novo Casamento no Antigo Testamento (2): uma análise dos outros textos relevantes",
+          "autores": "Dück, A. W.",
+          "ano": 2017,
+          "revista": "Via Teológica, v.18, n.35 — FABAPAR",
+          "link": "https://periodicos.fabapar.com.br/index.php/vt/article/download/28/58",
+          "banco": "Via Teológica",
+          "resumo": "Analisa textos do AT sobre divórcio além de Deuteronômio 24, identificando a posição bíblica sobre indissolubilidade do casamento e as exceções previstas."
+        }
+      ]
+    }
   ]
 }
