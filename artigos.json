@@ -173,5 +173,40 @@
         }
       ]
     }
+    ,
+    {
+      "tema": "MVP",
+      "subtema": "Frameworks e metodologias para construir um MVP",
+      "data": "2026-09-21",
+      "artigos": [
+        {
+          "titulo": "A Systematic Mapping Study and Practitioner Insights on the Use of Software Engineering Practices to Develop MVPs",
+          "autores": "Alonso, S.; Kalinowski, M.; Ferreira, B.; Barbosa, S. D. J.; Lopes, H.",
+          "ano": 2023,
+          "revista": "arXiv",
+          "link": "https://arxiv.org/pdf/2305.08299",
+          "banco": "arXiv",
+          "resumo": "Conduz um mapeamento sistemático da literatura combinado com entrevistas com praticantes para identificar quais práticas de engenharia de software são usadas no desenvolvimento de MVPs. Mapeia frameworks, metodologias ágeis e ferramentas mais adotadas, revelando lacunas entre teoria acadêmica e prática de mercado."
+        },
+        {
+          "titulo": "Industries, frameworks, and key drivers of lean startup: a systematic literature review",
+          "autores": "Disponíveis na página",
+          "ano": 2024,
+          "revista": "TEC Empresarial (SciELO Costa Rica), v.18, n.2, p.51-80",
+          "link": "https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1659-33592024000200051",
+          "banco": "SciELO Costa Rica",
+          "resumo": "Revisão sistemática da literatura sobre lean startup — o framework que originou o conceito de MVP. Identifica os setores industriais onde lean startup é mais aplicado, os frameworks derivados (Build-Measure-Learn, Customer Development, etc.) e os principais fatores que determinam o sucesso da metodologia."
+        },
+        {
+          "titulo": "Mínimo produto viável para aplicativo de apoio: gestão do cuidado de enfermagem à pele do idoso",
+          "autores": "Disponíveis na página",
+          "ano": 2021,
+          "revista": "Cogitare Enfermagem",
+          "link": "https://www.scielo.br/j/cenf/a/PT9MHVhtfnjtzTnqKQXMTDt/",
+          "banco": "SciELO Brasil",
+          "resumo": "Descreve o processo de desenvolvimento de um MVP para aplicativo de saúde, documentando as etapas metodológicas — levantamento de requisitos, prototipagem, validação com usuários e iteração. A metodologia é replicável a qualquer domínio e serve como modelo prático de como aplicar o framework de MVP desde a concepção até a primeira versão validada."
+        }
+      ]
+    }
   ]
 }
