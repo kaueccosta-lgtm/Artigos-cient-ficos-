@@ -208,5 +208,40 @@
         }
       ]
     }
+  ,
+    {
+      "tema": "MVP",
+      "subtema": "Lean startup, design thinking e técnicas de MVP — os mais famosos",
+      "data": "2026-09-22",
+      "artigos": [
+        {
+          "titulo": "A Systematic Mapping Study and Practitioner Insights on the Use of Software Engineering Practices to Develop MVPs",
+          "autores": "Alonso, S.; Kalinowski, M.; Ferreira, B.; Barbosa, S. D. J.; Lopes, H.",
+          "ano": 2023,
+          "revista": "arXiv / Information and Software Technology",
+          "link": "https://arxiv.org/pdf/2305.08299",
+          "banco": "arXiv",
+          "resumo": "Mapeamento sistemático combinado com entrevistas com profissionais da indústria para identificar quais práticas de engenharia de software são usadas no desenvolvimento de MVPs. Revela quais frameworks ágeis, técnicas de prototipagem e ferramentas de validação são mais adotados e aponta lacunas entre o que a academia propõe e o que o mercado pratica."
+        },
+        {
+          "titulo": "Industries, frameworks, and key drivers of lean startup: a systematic literature review",
+          "autores": "Disponíveis na página",
+          "ano": 2024,
+          "revista": "TEC Empresarial (SciELO Costa Rica), v.18, n.2, p.51-80",
+          "link": "https://www.scielo.sa.cr/scielo.php?script=sci_arttext&pid=S1659-33592024000200051",
+          "banco": "SciELO Costa Rica",
+          "resumo": "Revisão sistemática sobre o lean startup — framework que originou o conceito de MVP. Mapeia setores industriais onde lean startup é mais aplicado, frameworks derivados (Build-Measure-Learn, Customer Development, Business Model Canvas) e fatores críticos de sucesso. Referência obrigatória para entender a base metodológica do MVP."
+        },
+        {
+          "titulo": "Assessment of Minimum Viable Product Techniques: A Literature Review",
+          "autores": "Saadatmand, M.",
+          "ano": 2017,
+          "revista": "Portland State University — ETM Student Projects",
+          "link": "https://pdxscholar.library.pdx.edu/cgi/viewcontent.cgi?article=2178&context=etm_studentprojects",
+          "banco": "PDXScholar (Portland State University)",
+          "resumo": "Revisão da literatura que identifica e compara as principais técnicas para construir e validar MVPs — desde protótipos em papel e wireframes até landing pages e smoke tests. Avalia pontos fortes e fracos de cada técnica, tornando-se referência para quem precisa escolher o método certo de acordo com o contexto do projeto."
+        }
+      ]
+    }
   ]
 }
